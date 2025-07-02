@@ -38,9 +38,9 @@ Exécuter `bash --version` pour vérifier si Bash est bien installé.
 ## Pour utiliser mooveFich :
 1) Vérifier que le fichier mooveFich.sh dispose des droits d'écriture et d'exécution 
 2) Déplacez-vous dans le dossier où est installé mooveFich.
-3) Lancez la commande : ./mooveFich.sh .extension.
+3) Lancez la commande : `./mooveFich.sh .extension .extension` (par exemple `./mooveFich.sh .pdf .odt`).
 4) Indiquez le chemin d'un dossier à sauvegarder lorsque le programme le demande.
-5) Un dossier mooveFich_repertoire est alors créé dans le dossier d'installation de mooveFich. Ce répertoire contient :
+5) Un dossier *mooveFich_repertoire* est alors créé dans le dossier d'installation de mooveFich. Ce répertoire contient :
 - Un dossier pour chaque type d'extension rencontrée.
 - Un fichier history.txt accessible à tous.
 ---
