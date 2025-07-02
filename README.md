@@ -2,7 +2,7 @@
 Permet de trier un grand nombre de fichiers par leur extension.
 
 
-MooveFich est un programme open source qui permet de trier des fichiers par leur extension, en créant des dossiers avec pour nom les différentes extensions fournies en paramètre.
+MooveFich est un programme open source qui permet de trier des fichiers par leur extension, en créant des dossiers par extensions, fournies en paramètres.
 
 
 Ce programme fonctionne nativement sur les systèmes Unix et tout système disposant d’un interpréteur Bash (ou d’un shell compatible POSIX), comme macOS. 
